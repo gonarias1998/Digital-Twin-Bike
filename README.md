@@ -1,2 +1,2 @@
-# Digital-Twin-Brompton
+# Digital-Twin-Bike
 Digital twin of a bike
